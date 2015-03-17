@@ -50,7 +50,7 @@ Normal listeners are subsidizing yoga studios that play Spotify all day.
 
 Catalog artists have to compete with Top 40 for the same pot of money. 
 
-{eight:Bandcamp pays us 8x Spotify per "follower".}
+{eight:Bandcamp pays us 8x Spotify per follower.}
 
 If someone likes Vulfpeck and Daft Punk on iTunes, they spend a dollar on Vulfpeck and a dollar on Daft Punk. 
 
